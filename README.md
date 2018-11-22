@@ -1,2 +1,2 @@
-# String-Project_OOP
-Đồ án OOP - My String
+# OOP - My String Class
+Đồ án OOP - My String - 2018
